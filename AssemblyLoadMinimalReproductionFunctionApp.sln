@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyLoadMinimalReproductionFunctionApp", "AssemblyLoadMinimalReproductionFunctionApp\AssemblyLoadMinimalReproductionFunctionApp.csproj", "{BEBA87F0-A640-44CC-B9AE-72E73FBA91E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherAssembly", "AnotherAssembly\AnotherAssembly.csproj", "{2AED9DB3-F02D-4749-9B7B-869AA0866D26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEBA87F0-A640-44CC-B9AE-72E73FBA91E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEBA87F0-A640-44CC-B9AE-72E73FBA91E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEBA87F0-A640-44CC-B9AE-72E73FBA91E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEBA87F0-A640-44CC-B9AE-72E73FBA91E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AED9DB3-F02D-4749-9B7B-869AA0866D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AED9DB3-F02D-4749-9B7B-869AA0866D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AED9DB3-F02D-4749-9B7B-869AA0866D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AED9DB3-F02D-4749-9B7B-869AA0866D26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
